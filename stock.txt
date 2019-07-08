@@ -1,0 +1,11 @@
+PID	Product	type	Brand	name
+001	Blender	Vitamix5200	4	3000.00
+002	Blender	Vitamix750	2	7000.00
+003	Blender	Nutribullet	7	2500.00
+004	Blender	MagicBullet	8	3000.00
+005	Camera	Kodak	3	250000.00
+006	Camera	Philips	5	250000.00
+007	Camera	Olympus	3	500000.00
+008	Heater	DeLonghi	5	60000.00
+009	Heater	Dyson	3	1000.00
+010	Heater	Lasko	2	10000.00
